@@ -10,7 +10,7 @@ __title__ = 'deepl'
 __author__ = 'grarich'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021-present grarich'
-__version__ = '1.0.3-ko'
+__version__ = '1.0.4'
 
 __path__ = __import__('pkgutil').extend_path(__path__, __name__)
 
