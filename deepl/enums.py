@@ -34,6 +34,7 @@ class SourceLang(Enum):
     Slovenian = "SL"
     Swedish = "SV"
     Chinese = "ZH"
+    Korean = "KO"
 
 
 class TargetLang(Enum):
@@ -65,6 +66,7 @@ class TargetLang(Enum):
     Slovenian = 'SL'
     Swedish = 'SV'
     Chinese = 'ZH'
+    Korean = 'KO'
 
 
 class SplitSentences(Enum):
